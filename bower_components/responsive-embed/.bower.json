@@ -1,0 +1,37 @@
+{
+  "name": "responsive-embed",
+  "homepage": "https://github.com/joselitojunior/responsive-embed",
+  "authors": [
+    "Joselito Júnior <eu@joselitojunior.com>"
+  ],
+  "description": "A Polymer element for responsive embeds",
+  "main": "elements/responsive-embed.html",
+  "keywords": [
+    "polymer",
+    "html5",
+    "responsive",
+    "embed",
+    "web-components"
+  ],
+  "license": "Apache 2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "core-component-page": "Polymer/core-component-page#>=0.4.0 <1.0.0"
+  },
+  "_release": "e24338aba4",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "e24338aba41d0226d8957d818fcb1018b848288b"
+  },
+  "_source": "git://github.com/joselitojunior/responsive-embed.git",
+  "_target": "master",
+  "_originalSource": "joselitojunior/responsive-embed",
+  "_direct": true
+}
